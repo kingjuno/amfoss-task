@@ -4,7 +4,7 @@
   - So I really have a good CS background and have been programming for around 5 years.
   - Right now i am familiar with C++,python,javascript,SQL and also I am familiar with github(from cmd line too..)
   - I like coding so much and spend most the free time with coding and learning new language's.
-  - I like helping other people's while I am also a guy who annoy's everyone if i see a problem seems to be lil hard.
+  - I like helping other people's while I am also a guy who annoy's everyone if i see a problem that seems to be lil more than hard.
  
 ## What is your plan for next 6 months?
   - I would like to do some android development eventhough i havent made an app in android studio I have created some applications in sketchware and appybuilder 
