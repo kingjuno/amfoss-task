@@ -2,7 +2,7 @@
 
 ## Why we must you?
   - So I really have a good CS background and have been programming for around 5 years.
-  - Right now i am familiar with C++,python,javascript,SQL and also I am familiar with github(also knows to use command line for PR's merging and some other thing)
+  - Right now i am familiar with C++,python,javascript,SQL and also I am familiar with github(from cmd line too..)
   - I like coding so much and spend most the free time with coding and learning new language's.
   - I like helping other people's while I am also a guy who annoy's everyone if i see a problem seems to be lil hard.
  
