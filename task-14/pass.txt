@@ -1,0 +1,14 @@
+# Bandit flags:
+
+lvl 0: bandit0
+lvl 0->1: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+lvl 1->2: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+lvl 2->3: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+lvl 3->4: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+lvl 4->5: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lvl 5->6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+lvl 6->7: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+lvl 7->8: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+lvl 8->9: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+lvl 9->10:truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+lvl 10->11:IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
