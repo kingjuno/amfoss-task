@@ -28,6 +28,6 @@ to do the same for telegram but it didn't work(I guess its some link problem...)
   
   
   Notes:                                                                                                                                                             
-  1: This was little hard but intresting...                                                                                                                         
+  1: This was little hard but interesting...                                                                                                                         
   2: Was good if you recommended not to try this on your friend...Cause you may be boiled in some super exciting words... :smile:
   
