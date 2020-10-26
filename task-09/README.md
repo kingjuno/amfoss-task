@@ -23,7 +23,7 @@ to do the same for telegram but it didn't work(I guess its some link problem...)
   learn how to use setIntreval in js and placed the statements as a function inside that...
   Finally it worked
   
-  This was what my code did to the poor victim:
+  This was what my code did to the victim:
   ![](https://github.com/kingjuno/amfoss-task/blob/main/task-09/Screenshot_2020-10-26%20Telegram%20Web.png)
   
   
