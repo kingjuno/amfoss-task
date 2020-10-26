@@ -27,6 +27,7 @@ to do the same for telegram but it didn't work(I guess its some link problem...)
   ![](https://github.com/kingjuno/amfoss-task/blob/main/task-09/Screenshot_2020-10-26%20Telegram%20Web.png)
   
   
-  Note 1: This was little hard but intresting...
-       2: Was good if you recommended not to try this on your friend...Cause you may be boiled in some super exciting words... :smile:
+  Notes:                                                                                                                                                             
+  1: This was little hard but intresting...                                                                                                                         
+  2: Was good if you recommended not to try this on your friend...Cause you may be boiled in some super exciting words... :smile:
   
