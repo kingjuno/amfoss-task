@@ -20,10 +20,10 @@ to do the same for telegram but it didn't work(I guess its some link problem...)
   so placed code in a function and did function call in a loop but instead of spamming ,it send message only once in each run
   
  3- Improvised **step- 2**
-  learn how to use setIntreval in js and placed the statements as a function inside that...
+  learn how to use setIntreval in js and placed the statements as a function inside that...                                                                         
   Finally it worked
   
-  This was what my code did to the victim:
+  This was what my code did to the victim:                                                                                                                      
   ![](https://github.com/kingjuno/amfoss-task/blob/main/task-09/Screenshot_2020-10-26%20Telegram%20Web.png)
   
   
