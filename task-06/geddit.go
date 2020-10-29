@@ -23,8 +23,8 @@ func run() (err error) {
 		"gedditAgent v1",
 	)
 	subOpts := geddit.ListingOptions{
-		Limit: 10,
-		Time:"LastMonth",
+		Limit: 100,
+		Time:"LastWeek",
 	}
 	posts, _ := session.DefaultFrontpage(geddit.DefaultPopularity, subOpts)
 	posts, _ = session.Frontpage(geddit.DefaultPopularity, subOpts)
