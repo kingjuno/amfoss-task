@@ -22,7 +22,6 @@ func run() (err error) {
 	}
 	posts,_,err:=client.Subreddit.HotPosts(ctx,sr.Name,&reddit.ListOptions{Limit:100})
 	for _,post:=range posts{
-		//fmt.Println(post.Title);
 		if err == nil {
 			date := time.Now()
 			format := "2006-01-02 15:04:05"
