@@ -16,7 +16,7 @@ func main() {
 func run() (err error) {
 	withCredentials := reddit.WithCredentials("ID", "sec", "user", "pass")
     	client, _ := reddit.NewClient(withCredentials)
-	sr,_,err:=client.Subreddit.Get(ctx,"meme")
+	sr,_,err:=client.Subreddit.Get(ctx,"memes")
 	if err!=nil{
 		return err
 	}
