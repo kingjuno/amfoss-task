@@ -15,6 +15,6 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-10">Task-10</a> | CS50 | PENDING |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-11">Task-11</a> | Poster Design | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-12">Task-12 </a>| If math was fun | AC |
-| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-13">Task-13</a> | Circuit Design | PENDING |
+| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-13">Task-13</a> | Circuit Design | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-14">Task-14</a> | Bandit | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-15">Task-15</a> | Project Euler | AC |
