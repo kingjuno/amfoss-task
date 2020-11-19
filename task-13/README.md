@@ -8,4 +8,12 @@ I learned using ultrasonic sound sensors and working of arduino from instructabl
 
 So for the project to represent when object lies at a position less than 100cm along with motor i used a bulb to indicate the circuit is working as i cant show the rotary motion of motor.
 
+# Images
+
+## Off state
+![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/off.png)
+## On state - A
+![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/on-state-a.png)
+## On state - B
+![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/on-state-b.png)
   
