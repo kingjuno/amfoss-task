@@ -11,7 +11,7 @@ So for the project to represent when object lies at a position less than 100cm a
 # Images
 
 ## Off state
-![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/off.png)
+![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/off-state.png)
 ## On state - A
 ![](https://github.com/kingjuno/amfoss-task/blob/main/task-13/images/on-state-a.png)
 ## On state - B
