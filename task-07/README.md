@@ -1,6 +1,8 @@
 # Task - 07
 ## Ubiquitous UI
 
+![](https://github.com/kingjuno/amfoss-task/blob/main/task-07/screen.gif)
+
 This was my most favourite task in the whole set.<br>
 It was little difficult though.
 <br><br>
