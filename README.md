@@ -6,10 +6,10 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-01">Task-01</a> | Star all the amfoss repository | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-02">Task-02</a> | Register nick in IRC freenode | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-03">Task-03</a> | Programming| AC |
-| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-04">Task-04</a> | Debiugging Derbies | AC |
+| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-04">Task-04</a> | Debugging Derbies | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-05">Task-05</a> | Rustic Scraper | PENDING |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-06">Task-06</a> | GEDDIT  | AC |
-| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-07">Task-07</a> | Ubiquitious UI | PENDING |
+| <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-07">Task-07</a> | Ubiquitious UI | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-08">Task-08</a> | Sir Perceval’s quest | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-09">Task-09</a> | Spammer_Spaghetti | AC |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-10">Task-10</a> | CS50 | PENDING |
