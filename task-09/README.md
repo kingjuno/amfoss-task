@@ -4,7 +4,7 @@
 I had to do test in 3 different ways until i got this one correct:
 
 1- I used puppeteer in javascript so i launched the browser and the code will gets executed ...(Saw this method for whatsapp in a git repo and it worked in whatsapp so i decided 
-to do the same for telegram but it didn't work(I guess its some link problem...).
+to do the same for telegram but it didn't work.
 
 2- I learned how to access a box and how to do mouse click using javascript from stackoverflow
 
@@ -27,7 +27,5 @@ to do the same for telegram but it didn't work(I guess its some link problem...)
   ![](https://github.com/kingjuno/amfoss-task/blob/main/task-09/Screenshot_2020-10-26%20Telegram%20Web.png)
   
   
-  Notes:                                                                                                                                                             
-  1: This was little hard but interesting...                                                                                                                         
-  2: Was good if you recommended not to try this on your friend...Cause you may be boiled in some super exciting words... :smile:
+  This was intresting.
   
