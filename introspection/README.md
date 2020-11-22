@@ -1,7 +1,7 @@
 # Introspection
 
 ## Why we choose must you?
-  - So I really have a good CS background and have been programming for around 5 years.
+  - The only thing I like is sit infront of computers apart from playing football.
   - Right now i am familiar with C++,python,javascript,SQL and also I am familiar with github.
   - I like coding so much and spend most the free time with coding and learning something new.
   - I like helping other people's .
@@ -21,5 +21,5 @@
   - I really thank Vchrombie for guiding me whenever required and also chromicle ,yash kare, ashwin and other seniors who were there to help me.
   
   
-  Seriously I wish I would be an amfoss member and It means something great to me.
+  Seriously I wish I would be an amfoss member and It means something great to me.<br>
    --> Thank you
