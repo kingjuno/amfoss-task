@@ -16,7 +16,8 @@
   - Also give my maximum support to every members in their need.
   
 ## Do you have any feedback for the selection process?
-  - Selection process is awesome ...
+  - Actually I have nothing much to say because this ones created by the eminents of this field. 
+  - Selection process was nice all tasks were good and cool...
   - My Mentors Sev and DE_BLANK_ were  so nice that they were willing to help whenever there was a need.
   - I really thank Vchrombie for guiding me whenever required and also chromicle ,yash kare, ashwin and other seniors who were there to help me.
   
