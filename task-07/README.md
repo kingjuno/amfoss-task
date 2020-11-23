@@ -4,7 +4,7 @@
 <img src="https://github.com/kingjuno/amfoss-task/blob/main/task-07/screen.gif" width="300" height="500">
 
 This was my most favourite task in the whole set.<br>
-It was little difficult though.
+
 <br><br>
 After setting up flutter I started watching some youtube videos and found how to create app and after that i also learned how use pageview function (so i used that instead of tabs but I later figured tabs where way more easier).<br>
 After watching few net ninja videos(Those where really helpful) I decided to create a package like file for the purpose instead of dumping the whole code into main.dart..<br><br> 
