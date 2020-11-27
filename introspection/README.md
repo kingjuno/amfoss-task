@@ -1,7 +1,8 @@
 # Introspection
 
 ## Why we choose must you?
-  - Well I dont have that specified answer for this question but I simply love to learn new stuffs. :)
+  - Well I dont have a specified answer for this question but I simply love to learn new stuffs so i will doing good. :)
+  - Anyway I will giving the maximum i can give .
  
 ## What is your plan for next 6 months?
   - After dealing with flutter for amfoss-task I really love Flutter so I would be concentrating more on android app development.
