@@ -13,12 +13,4 @@
   
 ## Do you have any feedback for the selection process?
   - Actually I have nothing much to say because this ones created by the eminents of this field. 
-  - Selection process was nice and all tasks were cool...
-  - My Mentors Sev and DE_BLANK_ were  so nice that they were willing to help whenever there was a need.
-  
-  
- 
- I really thank Vchrombie for guiding me whenever required and also chromicle ,yash kare, ashwin and all other seniors who were there to help me.
-   
-  Seriously I wish I would be an amfoss member and It means something great to me.<br>
-   **--> Thank you**
+  - Selection process was overall nice and all tasks were cool...
