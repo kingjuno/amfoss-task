@@ -6,7 +6,7 @@ I followed two approach to solve this question:
 ## Approach 1 : [geddit.go](https://github.com/kingjuno/amfoss-task/blob/main/task-06/geddit.go)
 I used to different go packages (one was given in the question and the other I found while I was searching).                                          
 #### Packages
-1- https://github.com/vartanbeno/go-reddit
+1- https://github.com/vartanbeno/go-reddit <br>
 2- https://github.com/jzelinskie/geddit
 
 2nd package was used because there were some problem for fetching the subreddit that occurs as the first search result.
