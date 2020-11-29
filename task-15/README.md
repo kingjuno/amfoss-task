@@ -1,8 +1,8 @@
 # TASK 15
 ## Project Euler
 
-All questions except 4th one was easy ... 4th one was a medium one cause I was trapped in the Time limit (TLE) due to inefficient solution... so i had to optimize the solution 4-5 times and finally solved that one too...
-:)
+All questions except the 4th one was easy.<br>
+4th one was a medium one cause I was trapped in the Time limit (TLE) due to some inefficient solution so, i had to optimize the solution 4-5 times.:)
 
 | Task | Name | Status |
 | --- | ----------- | --- |
