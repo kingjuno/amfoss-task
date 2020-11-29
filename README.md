@@ -20,6 +20,6 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-15">Task-15</a> | Project Euler | AC |
 <br><br><br>
 # Intro
-So I am Geo Jolly of cse 24. I started coding from 9th grade but was not paying much attention into it. So I accidently sat in a CS class for Bio in grade 11 and got interested to CS by hearing intro class.Yeah that's my CS journey until now.<br>
+So I am Geo Jolly of cse 24. I started coding from 9th grade but was not paying much attention into it.I took CS in grade 11-12 and that's my CS journey until now.<br>
 Until now i only usually practice cp's.. so if i make into amfoss I have to do something in web/app development.
 
