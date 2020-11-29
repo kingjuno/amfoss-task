@@ -2,6 +2,6 @@
 # Poster Design 
 
 
-Pardon for the worst poster..... <br>I hate both act and word poster making since i have been english classes<br><br>
+I hate making posters since i started to do that for english exams.<br>So I didnt make a good poster.<br>The template I saw was easy to edit.
                                                       
 
