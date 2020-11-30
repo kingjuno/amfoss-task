@@ -19,9 +19,7 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-14">Task-14</a> | Bandit | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-15">Task-15</a> | Project Euler | Done |
 
-# Intro
-So I am Geo Jolly of cse 24. I am from Kannur Kerala.I started coding from 9th grade but was not paying much attention into it.I ended up taking CS in grade 11-12.Until then I had done some tech stuffs and bit of python.I learned c++ in grade 11-12 and got interested in c++ and still now C++ is my fav language eventhough i have tested some other language like python, js and so on.... So I usually do some projects to learn a new language or new stuffs in <br>
-
+**Task submission for amfoss 2020 by Geo Jolly of CSE 24.**
 
 # About Incomplete Tasks
 Had to skip rustic scrapper because I didnt spend much time on it cause it seems waymore boring and difficult to finish.<br>
