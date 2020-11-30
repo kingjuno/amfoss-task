@@ -19,7 +19,7 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-14">Task-14</a> | Bandit | Done |
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-15">Task-15</a> | Project Euler | Done |
 
-**Task submission for amfoss 2020 by Geo Jolly of CSE 24.**
+**Task submission for amfoss 2020 by Geo Jolly Cheeramvelil of CSE 24.**
 
 # About Incomplete Tasks
 Had to skip rustic scrapper because I didnt spend much time on it cause it seems waymore boring and difficult to finish.<br>
