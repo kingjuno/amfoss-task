@@ -24,7 +24,7 @@ func run() (err error) {
 	)
 	subOpts := geddit.ListingOptions{
 		Limit: 100,
-		Time:"LastWeek",
+		Time:"Week",
 	}
 	posts, _ := session.DefaultFrontpage(geddit.DefaultPopularity, subOpts)
 	posts, _ = session.Frontpage(geddit.DefaultPopularity, subOpts)
