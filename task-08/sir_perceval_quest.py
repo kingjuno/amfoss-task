@@ -1,4 +1,3 @@
-from perceval.backends.core.git import Git
 import json
 import os
 import requests
