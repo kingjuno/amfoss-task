@@ -22,5 +22,5 @@
 **Task submission for amfoss 2020 by Geo Jolly Cheeramvelil of CSE 24.**
 
 # About Incomplete Tasks
-Had to skip rustic scrapper because I didnt spend much time on it cause it seems waymore boring and difficult to finish.<br>
+
 I also skipped cs50 because it was too boring ,but still i did pset1.
