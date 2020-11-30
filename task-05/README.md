@@ -1,12 +1,13 @@
 # Task 05
 ## Rustic Scraper
 
-I finshed this at the last minute.<br>
+I finshed this at the last time.<br>
 https://docs.rs/csv/1.0.0-beta.2/csv/struct.Writer.html and some stackoverflow articles helped me a lot along with resource given.<br>
 
-Corona datas:
+Datas obtained:
+
 Country|Total Cases|Total Deaths|Total Recovered
----|---|---|---|--- 
+---|---|---|--- 
 USA | 13,757,807 | 273,152 | 8,109,577 
 India |	9,449,093	| 137,397	| 8,865,846
 Brazil | 6,314,740 | 172,848 |5,578,118
