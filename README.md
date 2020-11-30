@@ -20,6 +20,9 @@
 | <a href="https://github.com/kingjuno/amfoss-task/tree/master/task-15">Task-15</a> | Project Euler | Done |
 
 # Intro
-So I am Geo Jolly of cse 24. I started coding from 9th grade but was not paying much attention into it.I took CS in grade 11-12 and that's my CS journey until now.<br>
-Usually i only usually practice cp's.. so if i make into amfoss I have to start involving in web/app development.
+So I am Geo Jolly of cse 24. I am from Kannur Kerala.I started coding from 9th grade but was not paying much attention into it.I ended up taking CS in grade 11-12.Until then I had done some tech stuffs and bit of python.I learned c++ in grade 11-12 and got interested in c++ and still now C++ is my fav language eventhough i have tested some other language like python, js and so on.... So I usually do some projects to learn a new language or new stuffs in <br>
 
+
+# About Incomplete Tasks
+Had to skip rustic scrapper because I didnt spend much time on it cause it seems waymore boring and difficult to finish.<br>
+I also skipped cs50 because it was too boring ,but still i did pset1.
