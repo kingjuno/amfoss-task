@@ -23,4 +23,4 @@
 
 # About Incomplete Tasks
 
-I also skipped cs50 because it was too boring ,but still i did pset1.
+I skipped cs50 because it was too boring ,but still i did pset1.
